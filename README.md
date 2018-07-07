@@ -15,5 +15,5 @@ be found here:
 
 http://jupyter.org/install
 
-To view the project and run the code, open the jupyter notebook file. Alternatively, to view
-the summary of the project, open the html file.
+To view the project and run the code, open the jupyter notebook file. To view the project in python format, open the
+py file in a text editor. 
